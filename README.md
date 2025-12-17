@@ -105,8 +105,9 @@ cd Telcom-Churn-Prediction
 pip install numpy pandas matplotlib scikit-learn
 
 # Run the project
-python project.py
+python project.py 
 
+```
 ## Results
 
 The performance of the models was evaluated using **Accuracy** and **Confusion Matrix**.
